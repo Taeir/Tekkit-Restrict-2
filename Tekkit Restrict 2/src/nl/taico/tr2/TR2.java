@@ -9,6 +9,7 @@ public class TR2 extends JavaPlugin {
 	}
 	
 	public void onEnable(){
+		//Test
 		getLogger().info("TekkitRestrict 2 v" + version + " Enabled!");
 	}
 	
